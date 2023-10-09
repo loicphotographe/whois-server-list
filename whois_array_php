@@ -1,0 +1,4 @@
+$whois_serveurs = array(
+"ac"=>"whois.nic.ac",
+"ae"=>"whois.aeda.net.ae"
+);
